@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ysk39\\Desktop\\11\\TeamTEST\\TeamTestRPG\\TeamTEST\\TextRPG_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{518C691B-0046-478F-A927-824561504B03}|TextRPG_Test\\TextRPG_Test.vcxproj|C:\\Users\\ysk39\\Desktop\\11\\TeamTEST\\TeamTestRPG\\TeamTEST\\TextRPG_Test\\TextRPG_Test\\TextRPG_Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{518C691B-0046-478F-A927-824561504B03}|TextRPG_Test\\TextRPG_Test.vcxproj|solutionrelative:TextRPG_Test\\TextRPG_Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextRPG_Test.cpp",
+              "DocumentMoniker": "C:\\Users\\ysk39\\Desktop\\11\\TeamTEST\\TeamTestRPG\\TeamTEST\\TextRPG_Test\\TextRPG_Test\\TextRPG_Test.cpp",
+              "RelativeDocumentMoniker": "TextRPG_Test\\TextRPG_Test.cpp",
+              "ToolTip": "C:\\Users\\ysk39\\Desktop\\11\\TeamTEST\\TeamTestRPG\\TeamTEST\\TextRPG_Test\\TextRPG_Test\\TextRPG_Test.cpp",
+              "RelativeToolTip": "TextRPG_Test\\TextRPG_Test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-30T01:51:38.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
