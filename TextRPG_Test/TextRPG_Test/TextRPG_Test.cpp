@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "test";
-
+    // std::cout << "Hello World!\n";
+    // std::cout << "test";
+    //수정했음
 }
